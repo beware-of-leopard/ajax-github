@@ -1,1 +1,26 @@
 /* CSS Entry Point */
+
+main{
+	width: 700px;
+	margin: auto;
+	font-family: helvetica, sans-serif;
+	div{
+		height: 70px;
+		padding: 20px;
+		margin: 20px;
+		background-color: #F0F0F0;
+		color: #A9A9A9;
+		border-radius: 15px;
+		border: 1px solid #A9A9A9;
+	img{
+		width: 60px;
+		float: left;
+	}
+	h2{
+		float: left;
+		font-size: 4em;
+		padding-left: 40px;
+		margin: 0;
+	}
+	}
+}
