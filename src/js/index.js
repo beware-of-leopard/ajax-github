@@ -2,7 +2,10 @@
 
 import $ from 'jquery';
 
-var url = 'https://api.github.com/users/jisaacks/orgs?access_token=ac49358f7dcbd22a5887ff8fda3dedbeeed5198d';
+// var url = 'https://api.github.com/users/jisaacks/orgs?access_token=ac49358f7dcbd22a5887ff8fda3dedbeeed5198d';
+
+var url = 'https://api.github.com/users/jisaacks/orgs';
+
 
 var $main = $('main');
 
